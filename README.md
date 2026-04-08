@@ -4,9 +4,8 @@ A premium, frontend-first mood-reactive music player built with Next.js. The app
 
 ## GitHub Description
 
-Use this as the repository description:
 
-`A mood-reactive music player built with Next.js featuring dynamic UI themes, playlist generation, immersive playback, and mood history insights.`
+A mood-reactive music player built with Next.js featuring dynamic UI themes, playlist generation, immersive playback, and mood history insights.`
 
 ## Live Demo
 
